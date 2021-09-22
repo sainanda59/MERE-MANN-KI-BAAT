@@ -65,5 +65,5 @@ THE WEB APP IS DESIGNED SO THE USER WHO IS SUFFERING FROM DEPRESSION AND ANXIETY
  
  [Todo-App](https://todolist-sai-soumyak-nanda.herokuapp.com/)
  
- ![Homepage](./assests/1.png) 
- ![Mission](./assests/2.png) 
+ ![Homepage](./assests/2.png) 
+ ![Mission](./assests/1.png) 

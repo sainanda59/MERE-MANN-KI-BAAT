@@ -610,6 +610,21 @@ header.sticky{
     color:var(--blue);
 }
 
+.footer-social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.footer-social a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: black;
+}
+
+
+
 .scroll-top{
     position: fixed;
     bottom:7.5rem; right:1.5rem;
